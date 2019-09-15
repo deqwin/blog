@@ -1,5 +1,5 @@
 ## 沐童の私博
-佛系前端一枚，想把好玩的 or 有趣的分享给他家
+佛系前端一枚，把好玩的 or 有趣的分享给大家
 
 ## 目录
 - [深入 Typescript 类型系统](https://github.com/deqwin/blog/issues/4)
