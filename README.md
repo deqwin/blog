@@ -5,6 +5,7 @@
 写了这么多字，不进来看看？
 
 ## 目录
+- [浏览器层合成与页面渲染优化](https://github.com/deqwin/blog/issues/5)
 - [深入 Typescript 类型系统](https://github.com/deqwin/blog/issues/4)
 - [如何实现一个webpack yaml-loader](https://github.com/deqwin/blog/issues/3)
 - [换种方式读源码：如何实现一个简易版的Mocha](https://github.com/deqwin/blog/issues/2)
