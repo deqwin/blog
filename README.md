@@ -5,6 +5,7 @@
 写了这么多字，不进来看看？
 
 ## 目录
+- [[20200110] MPM卖场可视化搭建系统 - 要素设计](https://github.com/deqwin/blog/blob/master/src/[20200110]%20MPM卖场可视化搭建系统%20-%20要素设计.md)
 - [[20191104] 前端er须知的Nginx技巧](https://github.com/deqwin/blog/blob/master/src/[20191104]%20前端er须知的Nginx技巧.md)
 - [[20191009] 浏览器层合成与页面渲染优化](https://github.com/deqwin/blog/blob/master/src/[20191009]%20浏览器层合成与页面渲染优化.md)
 - [[20190913] 深入 Typescript 类型系统](https://github.com/deqwin/blog/blob/master/src/[20190913]%20深入%20Typescript%20类型系统.md)
